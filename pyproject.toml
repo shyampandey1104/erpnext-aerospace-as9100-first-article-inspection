@@ -1,0 +1,11 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "erpnext-aerospace-as9100-first-article-inspection"
+authors = [{name = "Shyam Kumar Pandey", email = "shyamkumarpandey1104@gmail.com"}]
+description = "ERPNext Aerospace AS9100 Rev D & SAE AS9102 FAI Engine: First Article Form 1-3 Inspection, CMM & Material Certs."
+version = "1.0.0"
+readme = "README.md"
+classifiers = ["Framework :: Frappe"]

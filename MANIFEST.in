@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include aerospace_as9100_fai *.css
+recursive-include aerospace_as9100_fai *.csv
+recursive-include aerospace_as9100_fai *.html
+recursive-include aerospace_as9100_fai *.ico
+recursive-include aerospace_as9100_fai *.js
+recursive-include aerospace_as9100_fai *.json
+recursive-include aerospace_as9100_fai *.md
+recursive-include aerospace_as9100_fai *.png
+recursive-include aerospace_as9100_fai *.py
+recursive-include aerospace_as9100_fai *.svg
+recursive-include aerospace_as9100_fai *.txt
+recursive-exclude aerospace_as9100_fai *.pyc
