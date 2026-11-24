@@ -1,0 +1,30 @@
+{
+ "add_total_row": 1,
+ "columns": [],
+ "creation": "2026-04-01 10:00:00.000000",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "is_standard": "Yes",
+ "modified": "2026-04-01 10:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Aerospace_As9100_Fai",
+ "name": "Erpnext Aerospace As9100 First Article Inspection Summary",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Erpnext Aerospace As9100 First Article Inspection Entry",
+ "report_name": "Erpnext Aerospace As9100 First Article Inspection Summary",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Accounts User"
+  },
+  {
+   "role": "Auditor"
+  }
+ ]
+}

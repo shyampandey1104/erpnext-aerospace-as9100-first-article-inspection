@@ -1,0 +1,104 @@
+{
+ "charts": [
+  {
+   "chart_name": "Erpnext Aerospace As9100 First Article Inspection Volume Trend",
+   "label": "Erpnext Aerospace As9100 First Article Inspection Volume Trend"
+  }
+ ],
+ "content": "[{\"type\": \"header\", \"data\": {\"text\": \"Erpnext Aerospace As9100 First Article Inspection Workspace\", \"level\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Erpnext Aerospace As9100 First Article Inspection Operations\"}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Audit & Compliance\"}}]",
+ "creation": "2026-04-01 10:00:00.000000",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "octicon octicon-package",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Erpnext Aerospace As9100 First Article Inspection",
+ "links": [
+  {
+   "label": "Operational Documents",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Erpnext Aerospace As9100 First Article Inspection Entry",
+   "label": "Erpnext Aerospace As9100 First Article Inspection Entry",
+   "link_to": "Erpnext Aerospace As9100 First Article Inspection Entry",
+   "link_type": "DocType",
+   "type": "Link"
+  },
+  {
+   "label": "Audit & Reports",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Erpnext Aerospace As9100 First Article Inspection Audit Log",
+   "label": "Erpnext Aerospace As9100 First Article Inspection Audit Log",
+   "link_to": "Erpnext Aerospace As9100 First Article Inspection Audit Log",
+   "link_type": "DocType",
+   "type": "Link"
+  },
+  {
+   "is_query_report": 1,
+   "label": "Erpnext Aerospace As9100 First Article Inspection Summary",
+   "link_to": "Erpnext Aerospace As9100 First Article Inspection Summary",
+   "link_type": "Report",
+   "type": "Link"
+  },
+  {
+   "label": "Configuration",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Erpnext Aerospace As9100 First Article Inspection Settings",
+   "label": "Erpnext Aerospace As9100 First Article Inspection Settings",
+   "link_to": "Erpnext Aerospace As9100 First Article Inspection Settings",
+   "link_type": "DocType",
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-04-01 10:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Aerospace_As9100_Fai",
+ "name": "Erpnext Aerospace As9100 First Article Inspection",
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [
+  {
+   "document_type": "Erpnext Aerospace As9100 First Article Inspection Entry",
+   "label": "Recent Erpnext Aerospace As9100 First Article Inspection Entries"
+  }
+ ],
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Accounts User"
+  }
+ ],
+ "sequence_id": 1,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "All Erpnext Aerospace As9100 First Article Inspection Entrys",
+   "link_to": "Erpnext Aerospace As9100 First Article Inspection Entry",
+   "type": "DocType"
+  },
+  {
+   "color": "Green",
+   "label": "System Settings",
+   "link_to": "Erpnext Aerospace As9100 First Article Inspection Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Blue",
+   "label": "Compliance Digest",
+   "link_to": "Erpnext Aerospace As9100 First Article Inspection Summary",
+   "type": "Report"
+  }
+ ],
+ "title": "Erpnext Aerospace As9100 First Article Inspection"
+}
